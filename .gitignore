@@ -1,0 +1,3 @@
+*.o
+c_malloc_test
+*.json
